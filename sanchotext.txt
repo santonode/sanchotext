@@ -1,0 +1,9 @@
+Welcome to a PodCast called, Learning Blockchain
+
+What is Cardano?
+
+Cardano is a blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create the possibility to bring about positive global change.
+
+Cardano is a proof-of-stake blockchain platform with a consensus mechnism call Ouroboros: the first to be founded on peer-reviewed research and developed through evidence-based methods. It combines pioneering technologies to provide unparalleled security and sustainability to decentralized applications.
+
+With a leading team of engineers, Cardano can redistribute power from unaccountable structures to individuals. Giving cenntralized power back to people.
